@@ -13,7 +13,6 @@
   <img align="center" alt="mayeufraferreira-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="mayeufraferreira-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="mayeufraferreira-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/773239503519350845/876840033498333184/PAIEquemcria..gif">
   
 </div>
 
