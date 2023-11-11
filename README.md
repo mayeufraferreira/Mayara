@@ -2,8 +2,7 @@
 
 <div> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mayeufraferreira&count_private=true&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayeufraferreira&layout=compact&theme=radical"/>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayeufraferreira)](https://github.com/anuraghazra/github-readme-stats)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mayeufraferreira"/>
 </div>
 
 ## Linguagens e Tecnologias
