@@ -1,8 +1,8 @@
 ## Olá, sou Mayara, mas pode me chamar de May!
 
 <div> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mayeufraferreira&count_private=true&show_icons=true&theme=radical"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayeufraferreira&layout=compact&theme=radical"/>
+  <img height="180em" width="150em" src="https://github-readme-stats.vercel.app/api?username=mayeufraferreira&count_private=true&show_icons=true&theme=radical"/>
+  <img height="180em" width="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayeufraferreira&layout=compact&theme=radical"/>
 </div>
 
 ## Linguagens e Tecnologias
