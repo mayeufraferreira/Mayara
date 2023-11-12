@@ -2,7 +2,7 @@
 
 <div> 
   <img height="180em" width="1500em" src="https://github-readme-stats.vercel.app/api?username=mayeufraferreira&count_private=true&show_icons=true&theme=radical"/>
-  <img height="180em" width="1500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayeufraferreira&layout=compact&theme=radical"/>
+  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayeufraferreira&layout=compact&theme=radical"/>
 </div>
 
 ## Linguagens e Tecnologias
